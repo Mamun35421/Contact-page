@@ -1,0 +1,61 @@
+.contact-details-container {
+    border-radius: 5px;
+    background: #FFF8F5;
+    padding: 30px;
+}
+
+
+.card {
+  margin-top: -100px;
+  width: 30%;
+  float: right;
+
+  
+background: #FFF8F5;
+box-shadow: 6px 6px 7px 7px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.container {
+  padding: 2px 16px;
+}
+   
+
+
+input {
+    width: 41%;
+    display: flex;
+    padding: 12px 10px;
+    margin: 8px 0;
+
+  }
+  
+  .text{
+       
+    border: 1px solid #E84A1D;
+    position: absolute;
+   
+    height: 0px;
+    left: calc(50% - 75px/2 + 0.5px);
+    top: 50px;
+ 
+  
+  }
+  .btn{
+   background: red;
+  }
+
+  .btn:hover {
+ 
+    position: absolute;
+    background-color: #FF4500;
+    border-radius: 5px;
+
+  }
+  
+ 
